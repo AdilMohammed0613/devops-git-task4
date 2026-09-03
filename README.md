@@ -1,14 +1,18 @@
-\# DevOps Git Task 4
+\# DevOps Internship Task 4: Git Version Control
 
 
 
-\## Objective
-
-Build a version-controlled DevOps project using Git and GitHub.
+\## 📌 Objective
 
 
 
-\## Tools Used
+Build and manage a version-controlled DevOps project using Git and GitHub.
+
+
+
+\## 🛠️ Tools Used
+
+
 
 \- Git
 
@@ -20,21 +24,7 @@ Build a version-controlled DevOps project using Git and GitHub.
 
 
 
-\## Git Workflow
-
-This project uses the following branches:
-
-
-
-\- main - Stable production branch
-
-\- dev - Development branch
-
-\- feature - Feature development branch
-
-
-
-\## Project Structure
+\## 📂 Project Structure
 
 
 
